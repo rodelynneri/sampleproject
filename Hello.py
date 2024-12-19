@@ -45,8 +45,6 @@ def run():
         
         you can visit our pages to see our work code at the explorer of this page.
 
-
-
     """
     )
 
