@@ -26,23 +26,25 @@ def run():
 
     st.write("# Welcome to Streamlit! 👋")
 
-    st.sidebar.success("Select a demo above.")
+    st.write("MARY GRACE B. HERTEZ")
+    st.write("BABY JEAN R. PANIZAL")
+    st.write("RODELYN O. NERI")
 
     st.markdown(
         """
+        Hello Sir ALLAN IBO our very kind instructor for modeling and simulation.
+        we thank you for your gracious heart to give us this project to test and utilize our performance 
+        and we would like to show you our simple project efforts and we hope you consider our work.
+
+        And We create this project to test our capabilities and knowing the python libraries and models in applying to the streamlit app by this project we gain a hand on experience and we also import some neccessaries model along with python libraries. And on this project we creates a simple and interactive web application where users can convert text to Morse code and Morse code back to text.
+        The app will have an intuitive interface where users can enter plain text or Morse code, and the output will be displayed instantly.
         Streamlit is an open-source app framework built specifically for
         Machine Learning and Data Science projects.
-        **👈 Select a demo from the sidebar** to see some examples
-        of what Streamlit can do!
-        ### Want to learn more?
-        - Check out [streamlit.io](https://streamlit.io)
-        - Jump into our [documentation](https://docs.streamlit.io)
-        - Ask a question in our [community
-          forums](https://discuss.streamlit.io)
-        ### See more complex demos
-        - Use a neural net to [analyze the Udacity Self-driving Car Image
-          Dataset](https://github.com/streamlit/demo-self-driving)
-        - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
+        
+        you can visit our pages to see our work code at the explorer of this page.
+
+
+
     """
     )
 
