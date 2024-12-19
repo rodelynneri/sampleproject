@@ -26,6 +26,8 @@ def run():
 
     st.write("# Welcome to Streamlit! 👋")
 
+    st.write( GROUP MEMBERS:)
+
     st.write("MARY GRACE B. HERTEZ")
     st.write("BABY JEAN R. PANIZAL")
     st.write("RODELYN O. NERI")
